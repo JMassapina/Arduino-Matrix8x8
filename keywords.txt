@@ -1,0 +1,26 @@
+#######################################
+# IMPORTANT: make sure you use tabs not
+# 			 spaces
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Matrix8x8	KEYWORD1
+Matrix8x8.h	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+turnOff	KEYWORD2
+turnOn	KEYWORD2
+printSymbol	KEYWORD2
+printNumber	KEYWORD2
+dot	KEYWORD2
+dash	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
